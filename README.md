@@ -1,5 +1,8 @@
 # astoria-tech-meetup-links
 
+## I'd like to present at the evening event
+Fill out this [Google Form](https://forms.gle/pPM9Wi7exb8tyeRt5)
+
 ## Thursday, October 12, 2023
 
 * Way to generate 3d models from a handful of images - https://poly.cam/gaussian-splatting
